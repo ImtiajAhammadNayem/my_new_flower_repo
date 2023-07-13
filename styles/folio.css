@@ -1,0 +1,95 @@
+.head-container{
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    display: flex;
+    background-color: rgb(245, 226, 229);
+}
+
+.profile-pic{
+    height: 250px;
+    width: 180px;
+    flex-shrink: 0;
+
+}
+.btn{
+    background-color: pink;
+    border-radius: 5px;
+    border-color: pink;
+}
+.writen-1{
+    padding-right: 70px;
+    padding-left: 30px;
+}
+.ftr{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.image-container{
+    padding-top: 120px;
+    align-items: center;
+    height: 150px;
+    width: 120px;
+    display: flex;
+}
+.flower-topic{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-decoration: underline;
+}
+.img-1{
+    background-color: aquamarine;
+    border-radius: 300px 300px 0px 0px;
+}
+.img-2{
+    background-color: aquamarine;
+    border-radius: 300px 300px 0px 0px;
+}
+.img-3{
+    background-color: aquamarine;
+    border-radius: 300px 300px 0px 0px;
+}
+.logo-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 150px;
+}
+.logo-para{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.off-con{
+    background-color: white;
+    text-align: left;
+    display: flex;
+    padding-right: 200px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.joruri{
+    padding-left: 200px;
+}
+
+.insta{
+    text-align: center;
+}
+.insta-image{
+    display: flex;
+}
+.background{
+    
+}
